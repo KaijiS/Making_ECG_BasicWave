@@ -4,7 +4,7 @@
 R波を探し出すことで「そこから前後に何点の区間を抽出」というアプローチ
 
 使用言語: python3  
-必要ライブラリ
+以下必要ライブラリ
 ```
 pip3 install numpy
 pip3 install scipy
