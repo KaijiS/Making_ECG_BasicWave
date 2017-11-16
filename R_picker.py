@@ -1,6 +1,5 @@
 import numpy as np
 from matplotlib import pylab as plt
-from tqdm import tqdm
 
 def max_plot(re,axis):
     """最大値をプロット"""
