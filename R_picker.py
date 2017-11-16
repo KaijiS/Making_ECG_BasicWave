@@ -3,7 +3,9 @@ from matplotlib import pylab as plt
 from tqdm import tqdm
 
 def max_plot(re,axis):
-    """最大値だけの折れ線グラフ"""
+    """最大値をプロット"""
+    # 基の波形と重ねてプロットするとよい
+
     max_data = []
     for i in range(len(axis)):
         max_data += [re[axis[i]]]
