@@ -26,4 +26,4 @@ pip3 install matplotlib
 "Health_Basic"のディレクトリ内に"I"誘導用と"II"誘導用のディレクトリ(それぞれ"0"および"1"に対応)があり、その中に心電図の基本波形がそれぞれcsvファイルで出力される。  
 
 
-![ecg](explain/1.png)
+![ecg](./explain_image/1.png)
